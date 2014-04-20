@@ -3,7 +3,7 @@ Coder_format x.x-x.x, xxxx-xx-xx
 --------------------------------
 
 
-Coder_format 6.x-1.x, xxxx-xx-xx
+Coder_format 7.x-1.x, xxxx-xx-xx
 --------------------------------
 #853582 by sun: Fixed 'else if' is not changed into 'elseif'.
 by sun: Fixed boolean constants must be written uppercase.
