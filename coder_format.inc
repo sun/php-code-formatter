@@ -35,6 +35,7 @@ function coder_format_recursive($directory, $undo = FALSE) {
   foreach ($files as $file) {
     coder_format_file($file->filename, $undo);
   }
+}
 
 /**
  * Reads, backups, processes and writes the source code from and to a file.
